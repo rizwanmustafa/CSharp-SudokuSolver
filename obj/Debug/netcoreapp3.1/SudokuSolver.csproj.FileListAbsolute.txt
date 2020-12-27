@@ -1,0 +1,13 @@
+/mnt/Programming/SudokuSolver/bin/Debug/netcoreapp3.1/SudokuSolver
+/mnt/Programming/SudokuSolver/bin/Debug/netcoreapp3.1/SudokuSolver.deps.json
+/mnt/Programming/SudokuSolver/bin/Debug/netcoreapp3.1/SudokuSolver.runtimeconfig.json
+/mnt/Programming/SudokuSolver/bin/Debug/netcoreapp3.1/SudokuSolver.runtimeconfig.dev.json
+/mnt/Programming/SudokuSolver/bin/Debug/netcoreapp3.1/SudokuSolver.dll
+/mnt/Programming/SudokuSolver/bin/Debug/netcoreapp3.1/SudokuSolver.pdb
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.csprojAssemblyReference.cache
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.AssemblyInfoInputs.cache
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.AssemblyInfo.cs
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.csproj.CoreCompileInputs.cache
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.dll
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.pdb
+/mnt/Programming/SudokuSolver/obj/Debug/netcoreapp3.1/SudokuSolver.genruntimeconfig.cache
